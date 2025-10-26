@@ -1,0 +1,5 @@
+{
+  "name": "Roblox UI Scanner AI",
+  "description": "An AI-powered UI designer that scans an image of a UI design and converts it into working Lua code for a Roblox GUI, complete with a live preview.",
+  "requestFramePermissions": []
+}
